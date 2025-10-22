@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>Profil Saya</title>
+</head>
+<body>
+        <!-- Konten yang terlihat oleh pengunjung akan ada di sini -->
+</body>
+</html>
+ <img src="foto-profil.jpg" alt="foto profil">
+ <h1>Nama Lengkap Anda </h1>
+ <p>Siswa SMA yang tertarik dengan teknologi dan desain.
+Selamat datang di website pertama saya</p>hrrf="https;//ww.intagram.com/dynra_mra!igsh=dWs5MGssag1mnm10</a>
+
+</body>
+</html>
+<head> 
+    <title>profil Digital - [Nama Anda]</title>
+    <link rel="stylesheet"href="style.css">
+</head>
+  <div class="kartu-profil">
+  </div>
+  <div class="kartu-profil">
+  <script src="scipt.js"></script>
